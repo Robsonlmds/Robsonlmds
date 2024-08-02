@@ -12,7 +12,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=dotnet,js,html,cs,visualstudio,github,arduino,git,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=dotnet,js,html,cs,c,arduino,git,azure" />
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>
