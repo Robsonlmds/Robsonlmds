@@ -27,7 +27,7 @@
 </a>
 </div>
 
-<h2></h2>
+</h1>
   
 
 <div align="center">
@@ -82,13 +82,13 @@
 
 ###
 
-
+</h1>
 </picture>
 </div>
 <br>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Obrigado+pela+atenção!;" />
-</h1>
+
 
 
 
