@@ -27,17 +27,6 @@
 
 <h2></h2>
 
-
-
-  
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=13&pause=1000&center=true&multiline=true&repeat=false&random=true&width=450&height=25&lines=> Linguagens+mais+usadas+atualmente" alt="Typing SVG" /></a> 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robsonlmds&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="120" alt="languages graph"/>
-
 <br clear="both">
 
 </div>
