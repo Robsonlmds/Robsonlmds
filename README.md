@@ -37,7 +37,7 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=13&pause=1000&center=true&multiline=true&repeat=false&random=true&width=450&height=25&lines=> Ranking" alt="Typing SVG" /></a>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=robsonlmds&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robsonlmds&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"/>
   
   <br clean="both">
 </div>
