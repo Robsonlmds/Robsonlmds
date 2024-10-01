@@ -8,7 +8,7 @@
 <div align="center">
   
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen=600&size=13&duration=1200&pause=100&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=110&lines=Graduando+em+Análise+e+Desenvolvimento+de+Sistemas+com+formação+em+Mecatrônica.;Habilidades+em+programação+(Python,+Js,+Csharp),+automação+e+robótica.;Já+fui+professor+de+robótica+e+sou+desenvolvedor+backend.;Integro+soluções+de+hardware+e+software,+otimizando+processos.;Estou+sempre+em+busca+de+aprendizado+contínuo." 
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen=600&size=13&duration=1200&pause=100&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=110&lines=Graduando+em+Análise+e+Desenvolvimento+de+Sistemas+com+formação+em+Mecatrônica.;Habilidades+em+programação,+automação+e+robótica.;Já+fui+professor+de+robótica+e+sou+desenvolvedor+backend.;Integro+soluções+de+hardware+e+software,+otimizando+processos.;Estou+sempre+em+busca+de+aprendizado+contínuo." 
     alt="Typing SVG" />
 </a>
 </div>
