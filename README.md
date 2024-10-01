@@ -22,7 +22,7 @@
 ###
 
 <div align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=13&pause=1000&center=true&multiline=true&repeat=false&random=true&width=700&height=25&lines=> 🌱 Atualmente estou estudando Csharp e Json..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=13&pause=1000&center=true&multiline=true&repeat=false&random=true&width=700&height=25&lines=> 🌱 Atualmente estou estudando Angular e Java..." alt="Typing SVG" /></a>
 </div>
 
 <h2></h2>
