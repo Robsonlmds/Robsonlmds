@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/r-lucas-messias-aa7248205/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://criarmeulink.com.br/u/1721613943" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=+robsonlmds@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
 </div>
 
