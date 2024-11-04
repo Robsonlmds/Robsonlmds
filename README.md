@@ -56,11 +56,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Silkscreen=600&size=18&duration=1200&pause=100&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=110&lines=Linguagens+mais+usadas" alt="Typing SVG" />
   </a>
-</div>
 
-<!-- BLOCO LINGUAGENS MAIS UTILIZADAS -->
-<div align="center">
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robsonlmds&layout=compact)](https://github.com/Robsonlmds/github-readme-stats)
 </div>
 
@@ -92,6 +88,9 @@
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=+robsonlmds@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://lucasmessias.vercel.app" alt="Portifolio" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/e?email=robsonlmds@hotmail.com&s=500" width="35px; hight:35px" title="Autor Robson Lucas Messias" alt="Foto de Perfil do GitHub - Robson Lucas Messias"/>
   </a>
 </div>
 
