@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Olá!+👋;+me+chamo+Robson+Lucas!;" />
 </h1>
 
+
 ###
 
 <!-- HABILIDADES E OCUPAÇÃO -->
@@ -45,9 +46,9 @@
 </div>
 
 <!-- ESTATÍSTICAS DO GITHUB -->
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Robsonlmds&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"/>
-</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robsonlmds&show_icons=true&theme=dark"/>
+</div>  
 
 <h1></h1>
 
@@ -93,8 +94,6 @@
       <img src="https://avatars.githubusercontent.com/u/e?email=robsonlmds@hotmail.com&s=500" width="35px; hight:35px" title="Autor Robson Lucas Messias" alt="Foto de Perfil do GitHub - Robson Lucas Messias"/>
   </a>
 </div>
-
-![Snake animation](https://github.com/Robsonlmds/Robsonlmds/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
