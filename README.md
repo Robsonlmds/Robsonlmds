@@ -75,7 +75,7 @@
 
 <!-- TECNOLOGIAS UTILIZADAS -->
 <div align="center">
- <img src="https://skillicons.dev/icons?i=git,cs,net,js,html,css,react,nodejs,jquery,ts,bootstrap,azure,postgresql,docker" />
+ <img src="https://skillicons.dev/icons?i=cs,net,js,html,css,nodejs,jquery,bootstrap,postgresql,docker,azure,git" />
 </div>
 
 ###
