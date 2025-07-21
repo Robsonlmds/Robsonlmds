@@ -6,8 +6,8 @@ Sou um profissional comprometido em criar **soluções modernas, funcionais e co
 
 ## Sobre Mim
 
-* 🖥️ **Técnico em Desenvolvimento de Sistemas** pelo SENAI
-* 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
+* 🎓 **Graduado em Análise e Desenvolvimento de Sistemas e Graduando em GNI (Gestão de Negocio e inovação e tecnologia)**
+* 🖥️ **Técnico em Mecatrônica** pela ETEC MLK
 * 📚 Atualmente aprofundando conhecimentos em **.NET, C#, JavaScript** e desenvolvimento **Fullstack**
 * 🌍 Sempre explorando **novas tecnologias** e desenvolvendo soluções de software impactantes.
 * ❤️ Fundador da [**UFT (Ultimate Fightertronics)**](https://www.instagram.com/u_fighttronics?igsh=MXNjdGtkN3Z2ZGVnaw==), com o compromisso de democratizar a robótica para todos os públicos.
@@ -37,9 +37,10 @@ Sou um profissional comprometido em criar **soluções modernas, funcionais e co
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ucas@solunova.com.br" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/r-lucas-messias" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://lucasmessias.vercel.app" title="Site">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Site"/></a>
+   <a href="https://lucasmessias.vercel.app" title="Meu Site Pessoal">
+   <img src="https://img.shields.io/badge/-Meu%20Site-blue?style=flat-square&logoColor=white" alt="Meu Site Pessoal"/></a>
+    <a href="https://solunova.com.br" title="SOLUNOVA"><img src="https://img.shields.io/badge/-SOLUNOVA-6ED309?style=flat-square&logoColor=white" alt="SOLUNOVA"/></a>
 </p>
 
 <div align="center">
