@@ -6,8 +6,7 @@ Sou um profissional comprometido em criar **soluções modernas, funcionais e co
 
 ## Sobre Mim
 
-* 🎓 **Graduado em Análise e Desenvolvimento de Sistemas e Graduando em GNI (Gestão de Negocio e inovação e tecnologia)**
-* 🖥️ **Técnico em Mecatrônica** pela ETEC MLK
+* 🎓 **Graduado em Análise e Desenvolvimento de Sistemas e Graduando em GNI (Gestão de Negocio e inovação e tecnologia) e Técnico em Mecatrônica**
 * 📚 Atualmente aprofundando conhecimentos em **.NET, C#, JavaScript** e desenvolvimento **Fullstack**
 * 🌍 Sempre explorando **novas tecnologias** e desenvolvendo soluções de software impactantes.
 * ❤️ Fundador da [**UFT (Ultimate Fightertronics)**](https://www.instagram.com/u_fighttronics?igsh=MXNjdGtkN3Z2ZGVnaw==), com o compromisso de democratizar a robótica para todos os públicos.
