@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=top&color=6ED309"/>
 
-# Olá! Sou **Robson Lucas Messias**, Desenvolvedor de Sistemas.
+# Olá! Sou **Robson Lucas Messias**, Desenvolvedor.
 
 Sou um profissional comprometido em criar **soluções modernas, funcionais e com propósito**. Minha paixão é transformar aprendizado em projetos reais, e tenho focado meus estudos em **.NET e C#** para alcançar esse objetivo em minha jornada de desenvolvimento.
 
