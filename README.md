@@ -71,10 +71,10 @@ Fui fundador da **UFT**, iniciativa de robótica associada a competições de ro
 
 ## 🎓 Formação & compartilhamento de conhecimento
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** — graduação concluída.
-- 📚 **Gestão de Negócios, Inovação e Tecnologia** — graduação em andamento.
-- ⚙️ **Mecatrônica** — formação técnica.
-- 🧑‍🏫 **Educação tecnológica** — experiência no ensino de robótica e participação em clubes estudantis de tecnologia.
+- 🎓 **Análise e Desenvolvimento de Sistemas** | graduação concluída.
+- 📚 **Gestão de Negócios, Inovação e Tecnologia** | graduação em andamento.
+- ⚙️ **Mecatrônica** | formação técnica.
+- 🧑‍🏫 **Educação tecnológica** | experiência no ensino de robótica e participação em clubes estudantis de tecnologia.
 
 ## 📊 GitHub em números
 
