@@ -57,19 +57,6 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas**, curso **Gestão de N
 
 <sub>Tecnologias apresentadas em meu portfólio e/ou em projetos públicos; o uso varia conforme o contexto de cada projeto.</sub>
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[Planner Blazor](https://github.com/Robsonlmds/ASP.NET-PlannerBlazor)** | Gerenciador visual de tarefas, com prioridades, edição e organização dinâmica. | Blazor Server, C#, .NET |
-| **[API CRUD .NET](https://github.com/Robsonlmds/.NET-API_CRUD)** | API REST para operações CRUD, com persistência de dados e padrão Repository. | .NET 8, Entity Framework Core, SQL Server |
-| **[Hospital System](https://github.com/Robsonlmds/.NET-Hospital_System)** | Aplicação web para navegação e funcionalidades de um sistema hospitalar. | ASP.NET Core MVC, Bootstrap, JavaScript |
-| **[Screenmatch](https://github.com/Robsonlmds/JAVA-Screenmatch)** | Aplicação que consulta dados de séries e episódios por meio de uma API externa. | Java, API OMDb |
-
-<p align="center">
-  <a href="https://github.com/Robsonlmds?tab=repositories"><strong>Explorar todos os meus repositórios →</strong></a>
-</p>
-
 ## 💡 Empreendedorismo & inovação
 
 ### 🌐 [SOLUNOVA](https://solunova.com.br/)
