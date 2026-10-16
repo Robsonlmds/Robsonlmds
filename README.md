@@ -6,7 +6,7 @@
 
 <h1 align="center">Olá, eu sou Robson Lucas Messias 👋</h1>
 
-<h3 align="center">Desenvolvedor Backend &amp; Full Stack | .NET • C# • Java | Consultoria &amp; Inovação</h3>
+<h3 align="center">Desenvolvedor Backend &amp; Full Stack | .NET • C# | Consultoria &amp; Inovação</h3>
 
 <p align="center">
   Conecto <strong>engenharia de software, performance e visão de negócios</strong> para criar soluções digitais com impacto real.
@@ -78,25 +78,11 @@ Minha trajetória também passa por **educação maker, robótica e empreendedor
 
 <sub>Tecnologias presentes no currículo, portfólio ou repositórios públicos. Experiência e frequência de uso variam conforme o projeto.</sub>
 
-## 🚀 Projetos em destaque
-
-### Produtos e soluções
+## 🚀 Projeto em destaque
 
 | Projeto | O que faz | Link |
 | :--- | :--- | :--- |
-| **Custo Impressão** | Plataforma SaaS para cálculo de custos de impressão 3D e emissão de cotações, com recursos de autenticação e cobrança recorrente descritos no currículo. | [Acessar plataforma](https://custoimpressao.com/) |
-| **Team Bondade — gestão e automação** | Sistema de gestão de alunos e mensalidades com automações de comunicação via n8n e WhatsApp, conforme o currículo. | [Conhecer a Team Bondade](https://teambondade.com.br/) |
-
-### Código público no GitHub
-
-| Repositório | Stack / proposta | Código |
-| :--- | :--- | :--- |
-| **API REST CRUD** | .NET 8, C#, Entity Framework Core, SQL Server e Repository Pattern. | [Ver repositório](https://github.com/Robsonlmds/.NET-API_CRUD) |
-| **Planner Blazor** | Gerenciador visual de tarefas com Blazor Server, componentização, prioridades e edição dinâmica. | [Ver repositório](https://github.com/Robsonlmds/ASP.NET-PlannerBlazor) |
-| **Hospital System** | Aplicação web em ASP.NET Core MVC com interface responsiva e fluxos de cadastro. | [Ver repositório](https://github.com/Robsonlmds/.NET-Hospital_System) |
-| **Screenmatch** | Aplicação Java para consulta de séries e episódios por meio da API OMDb. | [Ver repositório](https://github.com/Robsonlmds/JAVA-Screenmatch) |
-
-<sub>Algumas iniciativas são projetos comerciais ou privados; os repositórios listados na segunda tabela possuem código público.</sub>
+| **Custo Impressão** | Plataforma SaaS para cálculo de custos de impressão 3D e emissão de cotações, com recursos de autenticação e cobrança recorrente. | [Acessar plataforma](https://custoimpressao.com/)
 
 ## 💡 Empreendedorismo & inovação
 
@@ -123,13 +109,6 @@ Fundei a **UFT** para incentivar o acesso à robótica de competição por meio 
 - **Google:** Foundations of Project Management.
 
 <sub>Confira instituições, escopo e informações adicionais sobre as credenciais no <a href="https://dev-cv-kdnn.vercel.app/index.html">currículo completo</a>.</sub>
-
-## 🌍 Idiomas
-
-- **Português:** nativo.
-- **Inglês:** avançado (comunicação profissional).
-- **Espanhol:** intermediário (leitura técnica).
-- **Alemão:** iniciante.
 
 ## 📊 GitHub em números
 
