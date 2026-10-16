@@ -93,11 +93,13 @@ Fui fundador da **UFT**, iniciativa de robótica associada a competições de ro
 
 ### Atividade e contribuições
 
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=robsonlmds&amp;bg_color=0D1117&amp;color=E6EDF3&amp;line=6ED309&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" />
-    <img width="100%" alt="Gráfico de atividades do GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=robsonlmds&amp;bg_color=FFFFFF&amp;color=24292F&amp;line=3B7600&amp;point=24292F&amp;area=true&amp;hide_border=true" />
-  </picture>
+  <img
+    src="https://SEU-DOMINIO.vercel.app/graph?username=robsonlmds&amp;bg_color=0D1117&amp;color=E6EDF3&amp;line=6ED309&amp;point=FFFFFF&amp;area=true&amp;hide_border=true"
+    alt="Gráfico de atividades do GitHub"
+    width="100%"
+  />
 </p>
 
 <p align="center">
